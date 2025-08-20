@@ -4,7 +4,7 @@ CyberSweep is a powerful, all-in-one batch script toolkit designed for comprehen
 
 🚀 Key Features
 
-      - 📁 File System Analysis: Scan for sensitive file extensions and patterns
+- 📁 File System Analysis: Scan for sensitive file extensions and patterns
       
       🔑 Keyword Intelligence: Advanced keyword searching across multiple file types
       
