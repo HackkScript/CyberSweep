@@ -21,8 +21,8 @@ CyberSweep is a powerful, all-in-one batch script toolkit designed for comprehen
 - 📋 Metadata Extraction: File metadata and timeline analysis
       
 - 📝 Comprehensive Reporting: Automated report generation in multiple formats      
- 
 
+ 
 ⚠️ Legal Disclaimer
 This tool is intended for educational purposes, security testing, and authorized audits only. Always obtain proper authorization before scanning any system. The developers are not responsible for misuse of this tool.
 
